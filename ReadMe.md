@@ -295,7 +295,16 @@ for size in data_sizes:
 ```
 
 
-
+```LaTeX
+@article{guo2025supervised,
+  title={Supervised learning-based water quality prediction and ecological risk factor mining across China’s 12 major river basins},
+  author={Guo, Jishu and Huang, Yimin and Zhang, Yun},
+  journal={Environmental Modelling \& Software},
+  pages={106840},
+  year={2025},
+  publisher={Elsevier}
+}
+```
 
 
 
