@@ -294,7 +294,7 @@ for size in data_sizes:
     results[size] = metrics
 ```
 
-
+# 引用
 ```LaTeX
 @article{guo2025supervised,
   title={Supervised learning-based water quality prediction and ecological risk factor mining across China’s 12 major river basins},
